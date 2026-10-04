@@ -1,1 +1,1 @@
-# GATE-CSE-PREPARATION
+GATE(CSE) Preparation
